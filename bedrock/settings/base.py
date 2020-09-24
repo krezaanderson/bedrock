@@ -250,6 +250,7 @@ FLUENT_DEFAULT_FILES = [
     'banners/firefox-daylight-launch',
     'brands',
     'download_button',
+    'firefox/sticky-promo',
     'footer',
     'fxa_form',
     'navigation',
